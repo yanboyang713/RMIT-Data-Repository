@@ -1,0 +1,16 @@
+id,age,marital,education,job,balance,day,month,duration
+1,44,married,secondary,blue-collar,16178,21,nov,297
+2,88,married,secondary,admin.,330,2,dec,357
+3,36,divorced,secondary,blue-collar,853,20,jun,15
+4,25<=,single,secondary,technician,616,28,jul,117
+5,33,single,secondary,services,310,12,m,54
+6,37,married,tertiary,management,0,16,jul,-268
+7,42,married,tertiary,management,1205,15,mar,129
+8,43,married,secondary,blue-collar,130,5,may,156
+9,58,married,primary,u,99999,26,aug,168
+10,41,married,secondary,admin.,3634,14,may,216
+11,0,married,primary,management,92,2,feb,447
+12,34,single,secondary,services,528D,2,sep,121
+13,28,single,secondary,admin.,350,19,may,5
+14,58,widowed,tertiary,management,136,8,jul,199
+15,34,married,unknown,blue-collar,41,6,may,34
